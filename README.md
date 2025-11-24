@@ -1,7 +1,5 @@
  MySQL Practice Repository
 
-![MySQL Practice Screenshot](/mnt/data/6d30970c-ab52-4b6a-a3f0-c68bad4102b3.png)
-
 Welcome to my **MySQL Practice Journey** — a professionally structured collection of SQL scripts and examples that I completed during my course.  
 This repo is built to be:
 
@@ -10,29 +8,6 @@ This repo is built to be:
 - ✅ Industry-standard  
 - ✅ Portfolio-ready
 
----
-
-## 📂 Repository Structure
-
-MySQL-Practice/
-│
-├── 01-DDL/
-├── 02-DML/
-├── 03-DQL/
-├── 04-TCL/
-├── 05-DCL/
-├── 06-Joins/
-├── 07-Subqueries/
-├── 08-Constraints/
-├── 09-Indexes/
-├── 10-Views/
-├── 11-Stored_Procedures/
-├── 12-Functions/
-├── 13-Triggers/
-└── README.md
-
-yaml
-Copy code
 
 ---
 
@@ -129,6 +104,7 @@ Copy code
 9. Use `05-DCL/grant_revoke.sql` only with a privileged account.
 
 ---
+---
 
 ## 🛡️ Best Practices demonstrated
 - Idempotent scripts (`IF NOT EXISTS`, `DROP IF EXISTS`)  
@@ -137,6 +113,7 @@ Copy code
 - Use window functions and audits (MySQL 8+) for real-world tasks  
 - Keep credentials out of source code (never hard-code passwords in production)
 
+---
 ---
 
 ## ⚙️ Requirements
@@ -150,10 +127,5 @@ Copy code
 - Push these files to your GitHub (I can provide the exact commands)? → **Reply:** `Push to my GitHub` and share repo details (or a link).
 
 ---
-
-## 📜 License
-You can add a license of your choice. For study/portfolio use, `MIT` is common.
-
+THANK YOU:)
 ---
-
-*Made with ❤️ — Ready for interviews and real projects.*
