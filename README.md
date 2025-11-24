@@ -1,17 +1,18 @@
  MySQL Practice Repository
-
+---
 Welcome to my **MySQL Practice Journey** — a professionally structured collection of SQL scripts and examples that I completed during my course.  
 This repo is built to be:
 
-- ✅ Beginner-friendly  
-- ✅ Interview-ready  
-- ✅ Industry-standard  
-- ✅ Portfolio-ready
+-  Beginner-friendly  
+-  Interview-ready  
+-  Industry-standard  
+-  Portfolio-ready
 
 
 ---
+---
 
-## 📘 Topics Covered (at-a-glance)
+##  Topics Covered (at-a-glance)
 
 ### 🔹 1. DDL — Data Definition Language
 **Files:** `create_tables.sql`, `alter_tables.sql`, `drop_truncate.sql`  
@@ -91,7 +92,7 @@ This repo is built to be:
 
 ---
 
-## ▶️ Quick Start (recommended order)
+##  Quick Start (recommended order)
 
 1. `01-DDL/create_tables.sql` — create DB & core tables (includes sample seed data).  
 2. `02-DML/*` — practice `INSERT`, `UPDATE`, `DELETE`.  
@@ -106,7 +107,7 @@ This repo is built to be:
 ---
 ---
 
-## 🛡️ Best Practices demonstrated
+##  Best Practices demonstrated
 - Idempotent scripts (`IF NOT EXISTS`, `DROP IF EXISTS`)  
 - Use transactions & savepoints for multi-step changes  
 - Limit destructive operations during practice (`LIMIT`)  
@@ -116,16 +117,12 @@ This repo is built to be:
 ---
 ---
 
-## ⚙️ Requirements
+##  Requirements
 - MySQL Server **8.0+** recommended (for window functions and some features).  
 - Workbench / CLI / MySQL Shell for running `.sql` files.
 
 ---
-
-## ✨ Want me to:
-- Generate all `.sql` files as a ZIP? → **Reply:** `Generate ZIP`  
-- Push these files to your GitHub (I can provide the exact commands)? → **Reply:** `Push to my GitHub` and share repo details (or a link).
-
 ---
 THANK YOU:)
+---
 ---
